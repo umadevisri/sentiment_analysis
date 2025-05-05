@@ -35,7 +35,7 @@ streamlit run app.py
 - `README.md` - This file.
 
 ## 📸 Screenshot
-![Screenshot](Screenshot)
+![Screenshot](Screenshot.png)
 
 ## 👨‍💻Author
 - Umadevisri
