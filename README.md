@@ -39,6 +39,6 @@ streamlit run app.py
 
 ## 👨‍💻Author
 - Umadevisri
-Created during the internship program on foundation of artifical intelligence brought by Edunet Foundation
+- Created during the internship program on foundation of artifical intelligence brought by Edunet Foundation
 ## Acknowledgment
 "Thank you to Microsoft and Edunet Foundation for giving me this learning opportunity."
